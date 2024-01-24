@@ -33,3 +33,7 @@ distancias kilométricas:
 
 
 ![Grafo solución ejercicio 4](./Ejercicio_4/Ejercicio4_MIA.jpg)
+
+# Ejercicio NPC (A*)
+Ejercicio NPC usando el algoritmo de **A*** del libro: **Grokking Artificial Intelligence Algorithms (Rishal Hurbans)** [pag 69]
+![Solución ejercicio NPC (A*)](./Ejercicio_NPC_(A-star)/Ejercicio_NPC_(A-star).jpg)
