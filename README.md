@@ -36,4 +36,7 @@ distancias kilométricas:
 
 # Ejercicio NPC (A*)
 Ejercicio NPC usando el algoritmo de **A*** del libro: **Grokking Artificial Intelligence Algorithms (Rishal Hurbans)** [pag 69]
+
+![Tablero](./Ejercicio_NPC_(A-star)/Ejercicio_NPC_(A-star)_tablero.jpg)
 ![Solución ejercicio NPC (A*)](./Ejercicio_NPC_(A-star)/Ejercicio_NPC_(A-star).jpg)
+![Solución ejercicio NPC (A*)](./Ejercicio_NPC_(A-star)/Ejercicio_NPC_(A-star)_solucion.jpg)
