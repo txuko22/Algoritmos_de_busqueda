@@ -32,11 +32,13 @@ distancias kilométricas:
 | Soria        | Calatayud     | 91        |
 
 
-![Grafo solución ejercicio 4](./Ejercicio_4/Ejercicio4_MIA.jpg)
+![Grafo solución ejercicio 4](./Ejercicio_4/coste_uniforme_mapa.jpg)
+![Solución ejercicio 4 parte 1](./Ejercicio_4/Ejercicio4_MIA_solucion_part1.jpg)
+![Solución ejercicio 4 parte 2](./Ejercicio_4/Ejercicio4_MIA_solucion_part2.jpg)
 
 # Ejercicio NPC (A*)
 Ejercicio NPC usando el algoritmo de **A*** del libro: **Grokking Artificial Intelligence Algorithms (Rishal Hurbans)**[pag 69]
 
 ![Tablero](./Ejercicio_NPC_(A-star)/Ejercicio_NPC_(A-star)_tablero.jpg)
 ![Solución ejercicio NPC (A*)](./Ejercicio_NPC_(A-star)/Ejercicio_NPC_(A-star).jpg)
-![Solución ejercicio NPC (A*)](./Ejercicio_NPC_(A-star)/Ejercicio_NPC_(A-star)_solucion.jpg)
+![Solución ejercicio NPC (A*)](./Ejercicio_NPC_(A-star)/Ejercicio_NPC_(A-star)_solucion_final.jpg)
